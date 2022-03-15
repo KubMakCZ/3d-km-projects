@@ -1,4 +1,4 @@
-# Hánojská věz
+# Hánojské věze
 
 složka s hlavolamem hánojské věže
 
@@ -6,9 +6,10 @@ složka s hlavolamem hánojské věže
 
 - *images* = složka se screenshoty (editované)
 - *photos* = složka s fotkami
-- *thinkerverse*.pptx + pdf - verze pro Thinkercad
+- *tinkercad*.pptx + pdf - verze pro Thinkercad
 - *fusion360*.pptx + pdf - verze pro Autodesk Fusion360
 - *prusaSlicer*.pptx + pdf - Nastavení PrusaSliceru
+- *Dazzling Inari-Blorr*.stl - výstup z Tinkercad
 
 ## Popis jednotlivych veci
 
