@@ -7,4 +7,4 @@ Primárně budu psát v čestině veškeré projekty. Možná později budu psat
 
 ## Seznam projektů
 
-- Hánojská věž
+- Hánojské věže
